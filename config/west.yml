@@ -10,9 +10,11 @@ manifest:
       url-base: https://github.com/tokyo2006
     - name: englmaxi
       url-base: https://github.com/englmaxi
+    - name: PiXeL16
+      url-base: https://github.com/PiXeL16
   projects:
-    - name: mario-peripheral-animation
-      remote: gpeye
+    - name: zmk-landscape-slideshow
+      remote: PiXeL16
       revision: main
     - name: zmk
       remote: cormoran
