@@ -10,11 +10,11 @@ manifest:
       url-base: https://github.com/tokyo2006
     - name: englmaxi
       url-base: https://github.com/englmaxi
-    - name: PiXeL16
-      url-base: https://github.com/PiXeL16
+    - name: gpeye                         
+      url-base: https://github.com/GPeye
   projects:
-    - name: zmk-landscape-slideshow
-      remote: PiXeL16
+    - name: hammerbeam-slideshow
+      remote: gpeye
       revision: main
     - name: zmk
       remote: cormoran
