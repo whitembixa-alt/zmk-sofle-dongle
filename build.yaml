@@ -8,6 +8,6 @@ include:
   - board: nice_nano_v2
     shield: eyelash_sofle_peripheral_left nice_view 
   - board: nice_nano_v2
-    shield: eyelash_sofle_peripheral_right nice_view
+    shield: eyelash_sofle_peripheral_right nice_view_custom
   - board: nice_nano_v2
     shield: settings_reset
